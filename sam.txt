@@ -1,0 +1,38 @@
+<html>
+<style>
+body {
+  background-image: url('https://img.peapix.com/5954523028958537609_1080.jpg');
+  background-repeat: no-repeat;
+  text-align:center;
+}
+button {
+  background-color: #008CBA;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+h1 {text-align: center;}
+h2 {text-align: center;}
+p {text-align: center;}
+</style>
+<h1><font size=20 style="color:white">PM INVEST</font></h1>
+<h2><font style="color:white">About project</font></h2>
+<p><font style="color:white">PM invest is an investment company that builds earnings on investment<br>
+and subsequent rental of real estate in Greece.On the market since 2014,at<br>
+the moment there are more than 50 active properties under management.</font>
+</p>
+  <div class="btn-group">
+    <button background-color:#008CBA type="button" class="btn btn-primary">Rental</button>
+    <button background-color:#008CBA type="button" class="btn btn-primary">Investment</button>
+    <button background-color:#008CBA  type="button" class="btn btn-primary">Real estate</button>
+  </div>
+
+</body>
+</html>
+
